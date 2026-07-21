@@ -1,0 +1,70 @@
+Create a modern responsive healthcare AI web application called "AI HealthMate".
+
+Theme:
+- Blue, Green, White
+- Professional Medical UI
+- Dark and Light mode
+- Glassmorphism cards
+- Responsive for mobile and desktop
+
+Pages:
+
+1. Landing Page
+- Hero Section
+- AI Assistant Illustration
+- Features
+- Testimonials
+- FAQ
+- Footer
+
+2. Dashboard
+- Welcome Card
+- BMI Card
+- Today's Calories
+- Water Intake
+- Steps Counter
+- Sleep Tracker
+- Weekly Progress Charts
+
+3. AI Chat Assistant
+- ChatGPT style interface
+- Suggested Questions
+- Voice Input Button
+- Typing Animation
+- Chat History
+
+4. Diet Planner
+- Breakfast
+- Lunch
+- Dinner
+- Snacks
+- Nutrition Cards
+- Calories
+- Protein
+- Fat
+- Carbs
+
+5. Wellness
+- Meditation
+- Yoga
+- Exercise
+- Mood Tracker
+
+6. User Profile
+- Height
+- Weight
+- Age
+- Gender
+- Health Goals
+- Edit Profile
+
+Use:
+Next.js
+TypeScript
+Tailwind CSS
+shadcn/ui
+Lucide Icons
+Recharts
+Framer Motion animations
+
+Generate production-quality code.
